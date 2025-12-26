@@ -17,7 +17,20 @@ PIP_PACKAGES=(
 
 NODES=(
     "https://github.com/ltdrdata/ComfyUI-Manager"
-    #"https://github.com/cubiq/ComfyUI_essentials"
+    "https://github.com/crystian/ComfyUI-Crystools"
+    "https://github.com/yolain/ComfyUI-Easy-Use"
+    "https://github.com/kijai/ComfyUI-KJNodes"
+    "https://github.com/kijai/ComfyUI-WanVideoWrapper"
+    "https://github.com/pythongosssss/ComfyUI-Custom-Scripts"
+    "https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite"
+    "https://github.com/BigStationW/ComfyUi-Scale-Image-to-Total-Pixels-Advanced"
+    "https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler"
+    "https://github.com/nosiu/comfyui-text-randomizer"
+    "https://github.com/city96/ComfyUI-GGUF"
+    "https://github.com/JerryOrbachJr/ComfyUI-RandomSize"
+    "https://github.com/shiimizu/ComfyUI-TiledDiffusion"
+    "https://github.com/rgthree/rgthree-comfy"
+    "https://github.com/ClownsharkBatwing/RES4LYF"
 )
 
 WORKFLOWS=(
