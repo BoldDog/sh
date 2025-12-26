@@ -29,8 +29,11 @@ NODES=(
     "https://github.com/city96/ComfyUI-GGUF"
     "https://github.com/JerryOrbachJr/ComfyUI-RandomSize"
     "https://github.com/shiimizu/ComfyUI-TiledDiffusion"
+    "https://github.com/kijai/ComfyUI-SCAIL-Pose"
     "https://github.com/rgthree/rgthree-comfy"
     "https://github.com/ClownsharkBatwing/RES4LYF"
+    # Needs weak security setting
+    "https://github.com/kijai/ComfyUI-WanAnimatePreprocess"
 )
 
 WORKFLOWS=(
