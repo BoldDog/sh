@@ -32,7 +32,9 @@ NODES=(
     "https://github.com/kijai/ComfyUI-SCAIL-Pose"
     "https://github.com/rgthree/rgthree-comfy"
     "https://github.com/ClownsharkBatwing/RES4LYF"
-    # Needs weak security setting
+    "https://github.com/1038lab/ComfyUI-RMBG"
+    "https://github.com/cubiq/ComfyUI_essentials"
+    # Needs weak security setting? Maybe only if downloading from ComfyUI manager.
     "https://github.com/kijai/ComfyUI-WanAnimatePreprocess"
 )
 
