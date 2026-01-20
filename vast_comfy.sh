@@ -37,6 +37,7 @@ NODES=(
     "https://github.com/Acly/comfyui-inpaint-nodes"
     "https://github.com/ltdrdata/ComfyUI-Impact-Pack"
     "https://github.com/jags111/efficiency-nodes-comfyui"
+    "https://github.com/wildminder/ComfyUI-DyPE"
     # Needs weak security setting? Maybe only if downloading from ComfyUI manager.
     "https://github.com/kijai/ComfyUI-WanAnimatePreprocess"
 )
