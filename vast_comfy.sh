@@ -38,6 +38,7 @@ NODES=(
     "https://github.com/ltdrdata/ComfyUI-Impact-Pack"
     "https://github.com/jags111/efficiency-nodes-comfyui"
     "https://github.com/wildminder/ComfyUI-DyPE"
+    "https://github.com/kijai/ComfyUI-segment-anything-2"
     # Needs weak security setting? Maybe only if downloading from ComfyUI manager.
     "https://github.com/kijai/ComfyUI-WanAnimatePreprocess"
 )
