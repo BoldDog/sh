@@ -40,7 +40,7 @@ NODES=(
     "https://github.com/wildminder/ComfyUI-DyPE"
     "https://github.com/kijai/ComfyUI-segment-anything-2"
     "https://github.com/tester4488/mc_qwen"
-    "github.com/siraxe/ComfyUI-WanVideoWrapper_QQ"
+    "https://github.com/siraxe/ComfyUI-WanVideoWrapper_QQ"
     # Needs weak security setting? Maybe only if downloading from ComfyUI manager.
     "https://github.com/kijai/ComfyUI-WanAnimatePreprocess"
 )
