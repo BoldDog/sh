@@ -38,7 +38,6 @@ NODES=(
     "https://github.com/ltdrdata/ComfyUI-Impact-Pack"
     "https://github.com/jags111/efficiency-nodes-comfyui"
     "https://github.com/wildminder/ComfyUI-DyPE"
-    "https://github.com/kijai/ComfyUI-segment-anything-2"
     "https://github.com/tester4488/mc_qwen"
     "https://github.com/siraxe/ComfyUI-WanVideoWrapper_QQ"
     "https://github.com/chflame163/ComfyUI_LayerStyle"
