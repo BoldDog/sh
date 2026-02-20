@@ -41,6 +41,7 @@ NODES=(
     "https://github.com/kijai/ComfyUI-segment-anything-2"
     "https://github.com/tester4488/mc_qwen"
     "https://github.com/siraxe/ComfyUI-WanVideoWrapper_QQ"
+    "https://github.com/chflame163/ComfyUI_LayerStyle_Advance"
     # Needs weak security setting? Maybe only if downloading from ComfyUI manager.
     "https://github.com/kijai/ComfyUI-WanAnimatePreprocess"
 )
