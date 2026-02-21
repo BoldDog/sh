@@ -70,6 +70,26 @@ ESRGAN_MODELS=(
 CONTROLNET_MODELS=(
 )
 
+# Handy aliases
+
+touch ~.bash_aliases
+
+cat >> ~/.bash_aliases <<EOL
+alias comfy='cd /workspace/ComfyUI/'
+alias cmfy='cd /workspace/ComfyUI/'
+alias models='cd /workspace/ComfyUI/models/'
+alias cinput='cd /workspace/ComfyUI/input/'
+alias coutput='cd /workspace/ComfyUI/output/'
+...
+EOL
+
+cat >> ~/.bashrc <<EOL
+if [ -f ~/.bash_aliases ]; then
+. ~/.bash_aliases
+fi
+...
+EOL
+
 ### DO NOT EDIT BELOW HERE UNLESS YOU KNOW WHAT YOU ARE DOING ###
 
 function provisioning_start() {
