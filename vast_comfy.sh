@@ -21,7 +21,7 @@ NODES=(
     "https://github.com/yolain/ComfyUI-Easy-Use"
     "https://github.com/kijai/ComfyUI-KJNodes"
     "https://github.com/kijai/ComfyUI-WanVideoWrapper"
-    "https://github.com/pythongosssss/ComfyUI-Custom-Scripts"
+    # "https://github.com/pythongosssss/ComfyUI-Custom-Scripts"
     "https://github.com/Kosinkadink/ComfyUI-VideoHelperSuite"
     "https://github.com/BigStationW/ComfyUi-Scale-Image-to-Total-Pixels-Advanced"
     "https://github.com/numz/ComfyUI-SeedVR2_VideoUpscaler"
